@@ -1,2 +1,1 @@
-# union_doc-translate
-open source union documents or translated document
+UC Union的开源文档以及翻译的外文文档。

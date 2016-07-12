@@ -1,4 +1,4 @@
-union_doc-translate 工程主要是UC Union整理的广告相关知识文档以及业界相关规范等文档翻译。
+union-doc-translate 工程主要是UC Union整理的广告相关知识文档以及业界相关规范等文档翻译。
 
 - 广告基础知识
     + [术语](https://github.com/uc-union/union_doc-translate/wiki/%E6%9C%AF%E8%AF%AD)
